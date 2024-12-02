@@ -7,6 +7,7 @@
 - wget
 - curl
 - html2text
+- mpv
 ### Ejecución
 Para ejecutar el programa solo necesitas añadir permisos al script con ***chmod +x aocli.sh*** e inciarlo con ***./aocli.sh***, los archivos BDL e historial son para que no dé errores en la consola pero puedes no descargarlos puesto que se crean automáticamente por el mismo programa.
 ### Funciones
